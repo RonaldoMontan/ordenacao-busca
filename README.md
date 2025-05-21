@@ -16,8 +16,8 @@ Implementar algoritmos fundamentais da Ciência da Computação em **Go (Golang)
 ## 📚 Algoritmos Implementados
 
 ### Ordenação
-- [x] [Bubble Sort](bubbleSort/) (com otimização para parada antecipada)
-- [ ] Insertion Sort
+- [x] [Bubble Sort](bubbleSort/)
+- [x] [Insertion Sort](insertionSort)
 - [ ] Selection Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
